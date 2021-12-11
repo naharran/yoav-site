@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yoav-site/static/css/main.a617e044.chunk.css",
+    "main.js": "/yoav-site/static/js/main.5150958f.chunk.js",
+    "main.js.map": "/yoav-site/static/js/main.5150958f.chunk.js.map",
+    "runtime-main.js": "/yoav-site/static/js/runtime-main.3924e7c3.js",
+    "runtime-main.js.map": "/yoav-site/static/js/runtime-main.3924e7c3.js.map",
+    "static/js/2.2ded6605.chunk.js": "/yoav-site/static/js/2.2ded6605.chunk.js",
+    "static/js/2.2ded6605.chunk.js.map": "/yoav-site/static/js/2.2ded6605.chunk.js.map",
+    "static/js/3.1aabc685.chunk.js": "/yoav-site/static/js/3.1aabc685.chunk.js",
+    "static/js/3.1aabc685.chunk.js.map": "/yoav-site/static/js/3.1aabc685.chunk.js.map",
+    "index.html": "/yoav-site/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/yoav-site/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2ded6605.chunk.js.LICENSE.txt": "/yoav-site/static/js/2.2ded6605.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yoav-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3924e7c3.js",
+    "static/js/2.2ded6605.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5150958f.chunk.js"
+  ]
+}
