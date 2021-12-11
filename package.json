@@ -1,6 +1,7 @@
 {
   "name": "yoav-site",
   "version": "0.1.0",
+  "homepage" : "https://naharran.github.io/yoav-site",
   "private": true,
   "dependencies": {
     "@mui/material": "^5.2.3",
