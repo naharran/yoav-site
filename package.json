@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/naharran/yoav-site#readme",
   "dependencies": {
+    "@heroku/buildpack-registry": "^1.0.1",
     "express": "^4.17.1"
   }
 }
