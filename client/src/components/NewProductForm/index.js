@@ -7,13 +7,19 @@ import { useFormik } from "formik";
 import axios from "axios";
 import { AppContext } from "../AppContext";
 import { Typography } from "@mui/material";
+import * as Yup from "yup";
 
+const formValidation = Yup.object().shape({
+  price: Yup.string().required("שדה חובה"),
+  name: Yup.string().required("שדה חובה"),
+  code: Yup.string().required("שדה חובה"),
+});
 const NewProductForm = ({ product }) => {
   const { isMobile, apiUrl } = useContext(AppContext);
-  
+
   const formik = useFormik({
     initialValues: product,
-    validationSchema: null,
+    validationSchema: formValidation,
 
     onSubmit: async (values) => {
       const productForm = values;
@@ -96,7 +102,11 @@ const NewProductForm = ({ product }) => {
           />
         </div>
         <Button
-          style={{ display: "flex", width:"fit-content", justifyContent: "start" }}
+          style={{
+            display: "flex",
+            width: "fit-content",
+            justifyContent: "start",
+          }}
           type={"submit"}
           submit
           contained
