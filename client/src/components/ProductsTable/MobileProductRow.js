@@ -35,7 +35,7 @@ const MobileProductRow = ({ id, code, name, price }) => {
       <CardContent>
         <div style={{ display: "flex",justifyContent:"space-between" }}>
           <Typography
-            sx={{ fontSize: 14, display: "flex", justifyContent: "start", width:"190px", overflow:"hidden", textOverflow:"ellipsis" }}
+            sx={{ fontSize: 14, display: "flex", justifyContent: "start", width:"190px", textOverflow:"ellipsis" }}
             color="text.primary"
             
           >
