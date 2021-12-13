@@ -1,5 +1,5 @@
 import React, { createContext } from "react";
-export const apiUrl = "https://yoav-store-backend.herokuapp.com/";
+export const apiUrl = "https://yoav-site.herokuapp.com";
 const appContextDefaultValue = {
   productsData: [],
   userType: "owner",
