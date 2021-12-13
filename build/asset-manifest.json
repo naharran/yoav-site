@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3433a03e.chunk.css",
+    "main.js": "./static/js/main.728112a4.chunk.js",
+    "main.js.map": "./static/js/main.728112a4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.45ee2f33.js",
+    "runtime-main.js.map": "./static/js/runtime-main.45ee2f33.js.map",
+    "static/js/2.7e186a6b.chunk.js": "./static/js/2.7e186a6b.chunk.js",
+    "static/js/2.7e186a6b.chunk.js.map": "./static/js/2.7e186a6b.chunk.js.map",
+    "static/js/3.21d00653.chunk.js": "./static/js/3.21d00653.chunk.js",
+    "static/js/3.21d00653.chunk.js.map": "./static/js/3.21d00653.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3433a03e.chunk.css.map": "./static/css/main.3433a03e.chunk.css.map",
+    "static/js/2.7e186a6b.chunk.js.LICENSE.txt": "./static/js/2.7e186a6b.chunk.js.LICENSE.txt",
+    "static/media/bg-naknik.1bc9d02c.jpeg": "./static/media/bg-naknik.1bc9d02c.jpeg",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45ee2f33.js",
+    "static/js/2.7e186a6b.chunk.js",
+    "static/css/main.3433a03e.chunk.css",
+    "static/js/main.728112a4.chunk.js"
+  ]
+}
